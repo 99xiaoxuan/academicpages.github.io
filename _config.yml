@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "xiaoxuan Wang / Person Homepage"
+title                    : "Wang Xiaoxuan / Person Homepage"
 title_separator          : "-"
-name                     : &name "xiaoxuan Wang"
+name                     : &name "Wang Xiaoxuan"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
